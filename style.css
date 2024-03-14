@@ -1,0 +1,9 @@
+#home {
+    background-image: url('benner.png'); /* Ganti dengan warna latar belakang yang diinginkan */
+    color: #ffffff; /* Warna teks menjadi putih */
+    padding: 20px; /* Sesuaikan padding sesuai kebutuhan */
+}
+
+#textChange {
+    color: #060506; /* Warna teks pada span */
+}
